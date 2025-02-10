@@ -9,8 +9,16 @@ I'm a developer passionate about automation, security, and open source projects.
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ## 🚀 Featured Projects
+
+### [RDP-Manager](https://github.com/T3rr0or/RDP-Manager)
+- Modern Remote Desktop Connection manager built with Electron
+- Features sleek UI with monitor-style connection cards
+- Supports quick connect, auto-save, and secure Windows RDP integration
+- Available as both installer and portable versions
 
 ### [PDF-Metadata-Extractor](https://github.com/T3rr0or/PDF-Metadata-Extractor)
 - Python script for batch analysis of PDF files
