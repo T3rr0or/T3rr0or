@@ -3,6 +3,8 @@
 ## 💫 About Me
 I'm a developer passionate about automation, security, and open source projects. I enjoy working with Python, Java, and Shell scripting to create useful tools and solutions.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=68197" style='border:none;'></iframe>
+
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
