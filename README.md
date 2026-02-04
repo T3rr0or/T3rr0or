@@ -3,8 +3,6 @@
 ## 💫 About Me
 I'm a developer passionate about automation, security, and open source projects. I enjoy working with Python, Java, and Shell scripting to create useful tools and solutions.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Terror.png" alt="TryHackMe Badge" />
-
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
