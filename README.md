@@ -1,27 +1,27 @@
-<h1 align="center">👋 Hi there, I'm T3rr0or</h1>
-<h3 align="center">🛡️ Ethical Hacker | Pentester | Security Enthusiast 🛡️</h3>
+<h1 align="center">Hi there, I'm T3rr0or</h1>
+<h3 align="center">Ethical Hacker | Pentester | Security Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Currently+Pursuing+OSCP;Breaking+Things+To+Secure+Them;Try+Harder!" alt="Typing SVG" />
 </p>
 
-## 💫 About Me
+## About Me
 Ethical hacker and pentester currently working towards **OSCP certification**. Focused on offensive security, vulnerability research, and building automation tools for security testing. I work primarily with Python, Java, and Shell scripting.
 
-🎯 **Current Focus:** OSCP Labs
-🔐 **Interests:** Penetration Testing, Security Automation, Vulnerability Assessment
+**Current Focus:** OSCP Labs
+**Interests:** Penetration Testing, Security Automation, Vulnerability Assessment
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
-### 🐍 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🛡️ Security & Pentesting Tools
+### Security & Pentesting Tools
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -29,7 +29,7 @@ Ethical hacker and pentester currently working towards **OSCP certification**. F
 ![Nmap](https://img.shields.io/badge/-Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### 💻 Development & DevOps
+### Development & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -43,29 +43,29 @@ Ethical hacker and pentester currently working towards **OSCP certification**. F
    └─ Focus Areas: Privilege Escalation, Active Directory, Buffer Overflows
 ```
 
-## 🚀 Featured Projects & Tools
+## Featured Projects & Tools
 
-### 🖥️ [RDP-Manager](https://github.com/T3rr0or/RDP-Manager)
+### [RDP-Manager](https://github.com/T3rr0or/RDP-Manager)
 > Modern Remote Desktop Connection manager built with Electron
 - Sleek UI with monitor-style connection cards for quick pentesting lab access
 - Quick connect feature for rapid deployment testing
 - Secure Windows RDP integration with credential management
 - Portable version perfect for testing environments
 
-### 🔍 [PDF-Metadata-Extractor](https://github.com/T3rr0or/PDF-Metadata-Extractor)
+### [PDF-Metadata-Extractor](https://github.com/T3rr0or/PDF-Metadata-Extractor)
 > Python-based OSINT and forensics tool for PDF analysis
 - Batch analysis of PDF files for metadata extraction
 - Comprehensive reporting with SHA256 hashing for integrity verification
 - Useful for digital forensics and OSINT investigations
 - Leverages pdfx for deep metadata parsing
 
-### 🗂️ [PRECsort](https://github.com/T3rr0or/PRECsort)
+### [PRECsort](https://github.com/T3rr0or/PRECsort)
 > Digital forensics utility for file recovery organization
 - Automated sorting of Photorec recovery results
 - Organizes recovered files by extension for faster analysis
 - Essential tool for forensic investigations and data recovery operations
 
-## 🎯 Current OSCP Journey
+## Current OSCP Journey
 ```diff
 + Active Directory Exploitation
 + Linux & Windows Privilege Escalation
@@ -76,7 +76,7 @@ Ethical hacker and pentester currently working towards **OSCP certification**. F
 ! Documenting Every Step for OSCP Report
 ```
 
-## 📊 GitHub Stats
+## GitHub Stats
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/T3rr0or?cardType=level&theme=dark&fontFamily=Bitcount%20Grid%20Single&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
