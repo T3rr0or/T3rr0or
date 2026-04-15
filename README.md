@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm T3rr0or</h1>
-<h3 align="center">Ethical Hacker | Pentester | Security Enthusiast </h3>
+<h3 align="center">Ethical Hacker | Pentester | Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Currently+Pursuing+OSCP;Breaking+Things+To+Secure+Them;Try+Harder!" alt="Typing SVG" />
@@ -8,8 +8,7 @@
 ## About Me
 Ethical hacker and pentester currently working towards **OSCP certification**. Focused on offensive security, vulnerability research, and building automation tools for security testing. I work primarily with Python, Java, and Shell scripting.
 
-**Current Focus:** OSCP Labs
-**Interests:** Penetration Testing, Security Automation, Vulnerability Assessment
+**Interests:** Penetration Testing, Security Automation, Development
 
 
 ## Technologies & Tools
@@ -36,12 +35,6 @@ Ethical hacker and pentester currently working towards **OSCP certification**. F
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🎓 Certifications & Learning Path
-```
-🔄 OSCP (Offensive Security Certified Professional) - In Progress
-   └─ Current Status: Actively preparing and pwning boxes
-   └─ Focus Areas: Privilege Escalation, Active Directory, Buffer Overflows
-```
 
 ## Featured Projects & Tools
 
@@ -65,16 +58,6 @@ Ethical hacker and pentester currently working towards **OSCP certification**. F
 - Organizes recovered files by extension for faster analysis
 - Essential tool for forensic investigations and data recovery operations
 
-## Current OSCP Journey
-```diff
-+ Active Directory Exploitation
-+ Linux & Windows Privilege Escalation
-+ Buffer Overflow Development
-+ Web Application Penetration Testing
-+ Network Enumeration & Exploitation
-! Building Custom Exploit Scripts
-! Documenting Every Step for OSCP Report
-```
 
 ## GitHub Stats
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/T3rr0or?cardType=level&theme=dark&fontFamily=Bitcount%20Grid%20Single&preferLogin=false)](https://git.io/awesome-stats-card)
