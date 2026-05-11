@@ -1,12 +1,8 @@
 <h1 align="center">Hi there, I'm T3rr0or</h1>
 <h3 align="center">Ethical Hacker | Pentester | Developer </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Currently+Pursuing+OSCP;Breaking+Things+To+Secure+Them;Try+Harder!" alt="Typing SVG" />
-</p>
-
 ## About Me
-Ethical hacker and pentester currently working towards **OSCP certification**. Focused on offensive security, vulnerability research, and building automation tools for security testing. I work primarily with Python, Java, and Shell scripting.
+Ethical hacker and pentester. Focused on offensive security, vulnerability research, and building automation tools for security testing. I work primarily with Python, Java, and Shell scripting.
 
 **Interests:** Penetration Testing, Security Automation, Development
 
