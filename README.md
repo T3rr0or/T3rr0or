@@ -34,13 +34,6 @@ Ethical hacker and pentester. Focused on offensive security, vulnerability resea
 
 ## Featured Projects & Tools
 
-### ScanR (private)
-> Self-hosted network vulnerability scanner for authorized security testing
-- Template-assisted scan setup with context-aware targets (IPs, CIDR, domains)
-- Nmap, masscan, Nuclei, and native plugins for discovery, CVE checks, and service enumeration
-- Live scan telemetry, findings triage with MITRE ATT&CK tags, and Playwright screenshots
-- Scheduling, scan deltas, API keys, webhooks, and agent-based distributed scanning
-
 ### [PDF-Metadata-Extractor](https://github.com/T3rr0or/PDF-Metadata-Extractor)
 > Python-based OSINT and forensics tool for PDF analysis
 - Batch analysis of PDF files for metadata extraction
