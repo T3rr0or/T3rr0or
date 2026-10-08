@@ -34,7 +34,7 @@ Ethical hacker and pentester. Focused on offensive security, vulnerability resea
 
 ## Featured Projects & Tools
 
-### [ScanR](https://github.com/T3rr0or/ScanR)
+### ScanR (private)
 > Self-hosted network vulnerability scanner for authorized security testing
 - Template-assisted scan setup with context-aware targets (IPs, CIDR, domains)
 - Nmap, masscan, Nuclei, and native plugins for discovery, CVE checks, and service enumeration
